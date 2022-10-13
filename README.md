@@ -14,7 +14,6 @@
 3. re
 4. plotly.express
 
-## Instructions
-1. Download and upzip the file GoodReads_100k_books.zip (the csv file is too large to upload directly to Github). 
-2. Download the file goodreads.ipynb and save it in the same directory as the csv file.
-3. Open and run the goodreads.ipynb file in Jupyter Notebook.
+## Instructions To View The Analysis
+1. The project can be viewed using [NBViewer](https://nbviewer.org/github/sarabogush/goodreads/blob/main/goodreads.ipynb). If you view the .ipynb file in Github directly, the visualizations won't render.
+2. You can also download the files and view them in Jupyter Notebook. Unzip the file GoodReads_100k_books.zip and save the .csv file in the same directory as goodreads.ipynb, then open goodreads.ipynb in Jupyter.
