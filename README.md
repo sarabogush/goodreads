@@ -1,4 +1,10 @@
 # Exploratory Data Analysis of Reader Engagement By Book Genre
+
+## To View The Analysis
+1. The project can be viewed using [NBViewer](https://nbviewer.org/github/sarabogush/goodreads/blob/main/goodreads.ipynb). If you view the .ipynb file in Github directly, the visualizations won't render.
+2. You can also download the files and view them in Jupyter Notebook. Unzip the file GoodReads_100k_books.zip and save the .csv file in the same directory as goodreads.ipynb, then open goodreads.ipynb in Jupyter.
+
+
 ## Goals of the Project
 1. This exploratory data analysis was completed for the DataQuest Data Analyst in Python capstone project and is designed to showcase skills in data cleaning, satistical analysis, and data visualization in Python.
 2. The project analyzes data for 100k books scraped from Goodreads.com to answer the question of what type of books we should recommend for an online book group.
@@ -13,7 +19,3 @@
 2. numpy
 3. re
 4. plotly.express
-
-## Instructions To View The Analysis
-1. The project can be viewed using [NBViewer](https://nbviewer.org/github/sarabogush/goodreads/blob/main/goodreads.ipynb). If you view the .ipynb file in Github directly, the visualizations won't render.
-2. You can also download the files and view them in Jupyter Notebook. Unzip the file GoodReads_100k_books.zip and save the .csv file in the same directory as goodreads.ipynb, then open goodreads.ipynb in Jupyter.
